@@ -4,7 +4,7 @@
 # @Email   : yuanxiaolu@sensetime.com
 # @File    : app.py
 # @ Describe: 
-# @ Reference:
+# @ Reference: https://tutorial.helloflask.com/database/
 
 import os
 from flask import Flask, render_template
