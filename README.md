@@ -31,6 +31,11 @@
 
 [Flask入门教程](https://tutorial.helloflask.com/preface/)
 
+## 前端框架的页面样式
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Semantic-UI](https://semantic-ui.com/)
+- [Foundation](https://get.foundation/)
 
 ## 其他框架
 
