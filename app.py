@@ -7,7 +7,10 @@
 # @ Reference:
 
 from flask import Flask, render_template
+from flask_sqlalchemy import SQLAlchemy  # 导入扩展类
 app = Flask(__name__)
+db = SQLAlchemy(app)  # 初始化扩展，传入程序实例 app
+
 
 @app.route('/hello')
 def hello():
